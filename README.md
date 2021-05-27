@@ -8,8 +8,8 @@
     index.js uses inquirer to prompt users with the questions contained in the file
     generateMarkdown.js provides the actual markdown needed to organize the README file.
 
-## Link: 
-    https://jfig27.github.io/README-generator/
+## Link to Video: 
+    https://github.com/Jfig27/README-Generator/blob/main/Develop/src/readme_generator.gif
 
-## Screenshots: 
+## Video: 
 ![gif of readme generator](./Develop/src/readme_generator.gif)
